@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.administrator.helloword.MainActivity">
+
+    <TextView android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="哈哈，通过点击鼠标轻易赚......." />
+
+    <Button
+        android:id="@+id/btngetmoney"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点我一次赚一百元" />
+
+
+    />
+</linearLayout>
